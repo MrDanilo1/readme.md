@@ -5,17 +5,17 @@
   ## Who am I?
  ```python
 class WhoAmI:
-	user = 'Mahdi Ettehadnejad'
+	user = 'Abolfazl Daniali'
         age = 16
    	current_work = 'Web Developer'
-   	learning = ['Backend Development', 'Machine learning', 'CS']
+   	learning = ['Frontend Development', 'Puthon', 'Backend Development']
    
    def getCity():
-   	return Shiraz_Iran()
+   	return Karaj_Iran()
    
    def Ambitions():
    	mern_stack_developer()
-   	AI_engineer()
+   	
 	
  ```
  
@@ -75,13 +75,10 @@ class WhoAmI:
 
 <br/>
 
-- 👦🏻 My dear mentor [Mr.hosseinnaseriir](https://github.com/hosseinnaseriir).
 
 
-<!--
-**mahdi-Eth/mahdi-Eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 
 - 🔭 I’m currently working on ...
